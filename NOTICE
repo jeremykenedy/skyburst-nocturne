@@ -1,0 +1,8 @@
+Skyburst Nocturne
+Copyright 2026 Jeremy Kenedy
+
+The installer, settings screen, settings provider, and DreamService lifecycle were adapted from Perseid Passage, Copyright 2026 Jeremy Kenedy, available at https://github.com/jeremykenedy/perseid-passage. Those portions are licensed under the Apache License, Version 2.0 and were modified for Skyburst Nocturne.
+
+Perseid Passage included portions of its installer, settings screen, settings provider, and DreamService lifecycle adapted from Starfield Drift, Copyright 2026 Jeremy Kenedy, available at https://github.com/jeremykenedy/starfield-drift. That source notice is retained for the inherited portions.
+
+The fireworks rendering, palettes, app icon, and banners are original to Skyburst Nocturne. No third-party visual assets or runtime libraries are included.

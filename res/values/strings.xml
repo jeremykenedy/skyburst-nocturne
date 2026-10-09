@@ -1,0 +1,5 @@
+<resources>
+    <string name="settings_title">Skyburst Nocturne settings</string>
+    <string name="preview_animation">Preview animation</string>
+    <string name="randomize_all">Randomize all settings each time the screensaver starts</string>
+</resources>

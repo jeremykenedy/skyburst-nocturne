@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title description">
+  <title id="title">Skyburst Nocturne</title>
+  <desc id="description">Animated fireworks screensaver for televisions. No tracking or analytics.</desc>
+  <rect width="800" height="200" rx="16" fill="#fff" stroke="#e5e7eb"/>
+  <text x="48" y="78" fill="#0f172a" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Skyburst Nocturne</text>
+  <text x="50" y="108" fill="#64748b" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14">Animated fireworks for your TV. No tracking or analytics.</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" font-weight="500" text-anchor="middle">
+    <rect x="49" y="130" width="98" height="22" rx="11" fill="#eff6ff" stroke="#93c5fd" stroke-width=".8"/><text x="98" y="145" fill="#1e40af">Live animation</text>
+    <rect x="155" y="130" width="92" height="22" rx="11" fill="#f5f3ff" stroke="#c4b5fd" stroke-width=".8"/><text x="201" y="145" fill="#6d28d9">Remote settings</text>
+    <rect x="255" y="130" width="118" height="22" rx="11" fill="#f0fdf4" stroke="#86efac" stroke-width=".8"/><text x="314" y="145" fill="#166534">Offline rendering</text>
+  </g>
+  <g transform="translate(575 28)">
+    <circle cx="104" cy="70" r="70" fill="#eff6ff"/>
+    <g stroke-linecap="round" fill="none">
+      <path d="M104 69V3M104 69V135M38 69h132M57 22l94 94M151 22 57 116" stroke="#3b82f6" stroke-width="3" opacity=".9"/>
+      <path d="M47 128 160 16M47 16l113 112" stroke="#3b82f6" stroke-width="1.6" opacity=".6"/>
+      <path d="M166 107v-48m0 48v47m-47-24h94m-80-33 67 67m0-67-67 67" stroke="#8b5cf6" stroke-width="2" opacity=".85"/>
+      <path d="M34 49v-30m0 30v30M4 49h60M13 28l42 42m0-42L13 70" stroke="#f59e0b" stroke-width="1.6" opacity=".8"/>
+    </g>
+    <circle cx="104" cy="69" r="5" fill="#3b82f6"/><circle cx="166" cy="107" r="3.5" fill="#8b5cf6"/><circle cx="34" cy="49" r="3" fill="#f59e0b"/>
+  </g>
+</svg>

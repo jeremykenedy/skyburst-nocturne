@@ -1,0 +1,11 @@
+/build/
+**/build/
+*.jks
+*.keystore
+*.pass
+local.properties
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.DS_Store
